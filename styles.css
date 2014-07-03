@@ -216,7 +216,7 @@ border-radius: 10px; /* future proofing */
 
 #chartArea{
 	width:100%;
-	height:350px;
+	height:400px;
 }
 #theSchools a {
 	color:#333333
@@ -252,6 +252,7 @@ border-radius: 10px; /* future proofing */
 	color: white;
 	font-weight: bolder
 }
+
 
 @media (min-width: 481px){
 	span#lblSelect{
@@ -305,4 +306,4 @@ border-radius: 10px; /* future proofing */
 		display:block;
 		}
 	.about{font-size: 10px}
-}
+	}
